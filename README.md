@@ -1,6 +1,6 @@
 # Todo_list
 
-
+This is just my first year project I did which is a simple todo list in python using tkinter
 
 > [!NOTE]
 > Here are all the functions
