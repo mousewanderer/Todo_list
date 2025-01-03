@@ -1,4 +1,4 @@
-
+Python
 
 # Todo_list
 This is just my first year project I did which is a simple todo list in python using tkinter
@@ -13,6 +13,7 @@ This is just my first year project I did which is a simple todo list in python u
 > Update
 >
 > New Update
+> 
 > Now "with a scrollable display for scroll down purpose for long list"
 > "Display button removed" - now has a automatical display feature when adding, deleting and update.
 > Search button twice will return to a display
