@@ -1,4 +1,4 @@
-Python
+Python Tkinter
 
 # Todo_list
 This is just my first year project I did which is a simple todo list in python using tkinter
@@ -25,12 +25,12 @@ Add it can save in a format of Javascript Object Notation
 
 Using the the tkinter module in python
 ![Screenshot 2025-01-01 000554](https://github.com/user-attachments/assets/7bec13d1-7587-443a-92bf-19c8b02732fd)
-And it manages errors
+
 ![Screenshot 2025-01-01 000619](https://github.com/user-attachments/assets/3bb3ae48-6e67-426e-a6b3-5e58d7998204)
 
 
 
-Along with some exception handling
+Also it handles errors by applying with some Exception handling
 
 ![Screenshot 2025-01-01 000910](https://github.com/user-attachments/assets/05bb90d3-9968-41a7-a86b-370d916435a1)
 
