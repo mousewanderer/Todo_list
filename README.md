@@ -25,6 +25,7 @@ Add it can save in a format of Javascript Object Notation
 
 Using the the tkinter module in python
 ![Screenshot 2025-01-01 000554](https://github.com/user-attachments/assets/7bec13d1-7587-443a-92bf-19c8b02732fd)
+And it manages errors
 ![Screenshot 2025-01-01 000619](https://github.com/user-attachments/assets/3bb3ae48-6e67-426e-a6b3-5e58d7998204)
 
 
