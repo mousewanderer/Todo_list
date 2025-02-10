@@ -18,6 +18,11 @@ This is just my first year project I did which is a simple todo list in python u
 > "Display button removed" - now has a automatical display feature when adding, deleting and update.
 > Search button twice will return to a display
 
+
+> Orgins
+>
+> I made this at my first year in Univeristy 
+
 Add it can save in a format of Javascript Object Notation
 ![Screenshot 2025-01-01 000241](https://github.com/user-attachments/assets/8ab54880-1cb6-41e6-854b-cafddb5af693)
 
